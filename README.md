@@ -1,3 +1,3 @@
-# Pillinini-505MI-LAB
-Student: Matteo Pillinini\
+# 505MI-LAB-Pillinini
+Student: Matteo Pillinini\\
 Id: IN0500971
