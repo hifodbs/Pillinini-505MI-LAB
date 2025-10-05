@@ -1,2 +1,3 @@
 # Pillinini-505MI-LAB
-Repository for submitting the report of the labs
+Student: Matteo Pillinini
+Id: IN0500971
